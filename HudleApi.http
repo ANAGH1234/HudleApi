@@ -1,0 +1,6 @@
+@HudleApi_HostAddress = http://localhost:5081
+
+GET {{HudleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
